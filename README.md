@@ -21,16 +21,10 @@
 | 000e | MA_MOTOR_SETTING_2_REG |
 | 000f | ? |
 
-#### REGISTER MA_PLL_SETTING_1_REG: PLL SETTING REGISTER 1
 
-| U-0 | U-0 | U-0 | U-0 | U-0 | U-0 | U-0 | U-0 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | PLLDIV4 | PLLDIV3 | PLLDIV2 | PLLDIV1 | PLLDIV0 |
-| bit 7 |  |  |  |  |  |  | bit 0 |
+## Register Description
 
-`bit 7-5`&ensp; **Unknown**
+Markdown Sucks!
 
-`bit 4-0`&ensp; **PLLDIV<4:0>: PLL Divider**
+[https://docs.google.com/document/d/1Ta7-QfxvALndF38_Lq67XnKIxlQ--RdkWxR8b7GLqag/edit?usp=sharing](https://docs.google.com/document/d/1Ta7-QfxvALndF38_Lq67XnKIxlQ--RdkWxR8b7GLqag/edit?usp=sharing)
 
-
-OMG Markdown sucks
